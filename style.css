@@ -1,0 +1,122 @@
+* {
+    text-align: center;
+}
+
+body {
+
+
+    font-family: "Fredoka", sans-serif;
+
+
+}
+
+.top {
+    background-color: black;
+    color: white;
+    margin: none;
+    border: none;
+    padding: none;
+
+}
+
+.navi {
+    padding-bottom: 8px;
+}
+.main-title{
+    padding-top: 13px;
+}
+
+.middle-1 {
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding-bottom: 15px; 
+    vertical-align: top;
+}
+
+.middle-2{
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding-bottom: 15px; 
+    vertical-align: top;
+}
+.middle-3{
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding-bottom: 15px; 
+    vertical-align: top;
+}
+.middle-4{
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding-bottom: 15px; 
+    vertical-align: top;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.bottom{
+    background-color: black;
+    color: white;
+}
+.form{
+    background-color: black;
+    color: white;
+}
+.sub{
+    background-color: #846670;
+    color: #ffffff;
+    border: none;
+    border-color: none;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+}
+.sub:hover{
+    background-color: white;
+    color: #846670;
+    border: none;
+
+}
+.order{
+        background-color: #000000;
+    color: #ffffff;
+    border: none;
+    border-color: none;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    vertical-align: top;
+}
+.order:hover{
+        background-color: white;
+    color: #000000;
+    border: solid black 2px;
+    
+}
+.middle-1__dosaa, .middle-2__biryanii, .middle-3__chickenn, .middle-4__halwaa {
+    height: 50px; /* Adjust this so it fits your longest text */
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center; /* Centers text vertically within that 60px */
+    justify-content: center;
+}
